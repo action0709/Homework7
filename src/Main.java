@@ -90,7 +90,7 @@ public class Main {
 int k=1;
         for (int i = 1; i <= 10; i++) {
             k=2*i;
-            System.out.println("2*"+i+"="+k);
+            System.out.println("2*"+i+"=" +k);
 
         }
     }
